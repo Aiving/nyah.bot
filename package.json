@@ -1,0 +1,15 @@
+{
+  "name": "nyah_bot",
+  "version": "1.0.0",
+  "description": "pidoras tot eche",
+  "main": "bot.js",
+  "scripts": {
+    "nyah": "node bot.js"
+  },
+  "author": "Blared",
+  "license": "Blared License",
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "promise-fs": "^2.1.1"
+  }
+}
