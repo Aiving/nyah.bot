@@ -1,9 +1,9 @@
 {
     "token" : "",
     "prefix" : "^",
-    "ownerID": "532064483074506764",
-    "blacklistchannelID": "773957449811886151",
-    "blacklistguildID": "763330862321369088",
-    "adminRoom": "765924666245120031",
-    "blacklistchannelID2": "763330862321369091"
+    "ownerID": "your id here",
+    "blacklistchannelID": "your id here",
+    "blacklistguildID": "your id here",
+    "adminRoom": "your id here",
+    "blacklistchannelID2": "your id here"
 }
