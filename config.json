@@ -1,9 +1,0 @@
-{
-    "token" : "your token here",
-    "prefix" : "your prefix here",
-    "ownerID": "your id here",
-    "blacklistchannelID": "your id here",
-    "blacklistguildID": "your id here",
-    "adminRoom": "your id here",
-    "blacklistchannelID2": "your id here"
-}

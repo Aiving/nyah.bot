@@ -1,15 +1,19 @@
 {
-  "name": "nyah_bot",
+  "name": "nyah.bot",
   "version": "2.8.0",
-  "description": "pidoras tot eche",
-  "main": "bot.js",
+  "description": "A lightweight discord bot written in TypeScript.",
+  "main": "build/index.js",
   "scripts": {
-    "nyah": "node bot.js"
+    "start": "node build/index.js"
   },
-  "author": "Blared",
-  "license": "Blared License",
+  "author": "Aiving",
+  "license": "MIT",
   "dependencies": {
-    "discord.js": "^12.4.0",
-    "promise-fs": "^2.1.1"
+    "discord.js": "^14.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "eslint": "^8.42.0",
+    "typescript": "^5.1.3"
   }
 }
